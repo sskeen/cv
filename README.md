@@ -1,4 +1,4 @@
-# CV / resume
+# Curriculum Vitae
 
 This repo is routinely updated with my current CV / resume: 📃 [simone_skeen_cv.pdf](https://github.com/sskeen/CV/blob/main/simone_skeen_cv.pdf). 
 
